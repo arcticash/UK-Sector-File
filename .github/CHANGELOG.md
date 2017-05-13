@@ -8,6 +8,13 @@
 7. Enhancement - Enhance tracks of EGJB SIDs - thanks to @trevorhannant (Trevor Hannant)
 8. Enhancement - Added Position Information for military airfields - thanks to @trevorhannant (Trevor Hannant)
 9. AIRAC (1706) - Adding TIBGA waypoint into Q63 airway - thanks to @arcticash (Ash Kirby)
+<<<<<<< HEAD
+=======
+10. AIRAC (1706) - Redesignation of UN863 to UM184 - thanks to @tasosb (Anastasios Mpithas)
+11. AIRAC (1706) - EGNX ATIS Frequency Ammended -  thanks to @tasosb (Anastasios Mpithas)
+12. AIRAC (1706) - Redesignation of Y76 - thanks to @tasosb (Anastasios Mpithas)
+13. AIRAC (1706) - EGTC Runway Heading ammended - thanks to @tasosb (Anastasios Mpithas)
+>>>>>>> refs/remotes/VATSIM-UK/master
 
 # Changes from release 2017/04 to 2017/05
 1. Enhancement - Improved colours for some elements of Manchester (EGCC) SMR - thanks to @cpawley (Chris Pawley)
